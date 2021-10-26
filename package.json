@@ -1,0 +1,23 @@
+{
+  "name": "ChapterV-Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph-gonzaga/ChapterV-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph-gonzaga/ChapterV-Cypress/issues"
+  },
+  "homepage": "https://github.com/ph-gonzaga/ChapterV-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}

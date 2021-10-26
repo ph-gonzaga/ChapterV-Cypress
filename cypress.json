@@ -1,0 +1,6 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "videoCompression": false,
+    "integrationFolder": "cypress/tests",
+    "baseUrl": "http://demo.realworld.io/#/"
+}

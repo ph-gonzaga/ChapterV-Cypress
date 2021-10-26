@@ -1,0 +1,9 @@
+{
+    "user":{
+       "email":"lian@teste.com",
+       "username":"lian",
+       "bio":null,
+       "image":"https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg",
+       "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxpYW5AdGVzdGUuY29tIiwidXNlcm5hbWUiOiJsaWFuIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vcmVhbHdvcmxkLXRlbXAtYXBpLmhlcm9rdWFwcC5jb20vaW1hZ2VzL3NtaWxleS1jeXJ1cy5qcGVnIiwiaWF0IjoxNjM1MjU2NTY2LCJleHAiOjE2NDA0NDA1NjZ9.s7jttf-erGpyyQYutfjvHZWXev5sUdWtyw1wTxRIvWk"
+    }
+ }
